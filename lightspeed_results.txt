@@ -1,0 +1,4 @@
+At a speed of 299792458.0 m/s, ~38745320.69540999 years pass on the planet for each year in the spacecraft.
+The spacecraft is traveling at ~99.99999999999996% light speed.
+This is ~1614388.3623087497 planet-days per spacecraft-hour.
+
